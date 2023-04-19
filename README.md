@@ -28,6 +28,9 @@ Number of Instances: 13611
 
 Number of Attributes: 17
 
+## Result Table
+<img src="result table.png" width=400/>
+
 ## Result
 <img src="result.png" width=400/>
 
