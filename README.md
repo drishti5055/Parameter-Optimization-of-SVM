@@ -1,6 +1,5 @@
 # Parameter-Optimization-of-SVM
 
-This project is an implementation of Support Vector Machine (SVM) algorithm using parameter optimization with randomization in R programming language.
 
 ## About SVM
 
